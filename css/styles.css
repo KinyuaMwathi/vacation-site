@@ -1,0 +1,19 @@
+#heading2 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+#heading3 {
+  text-align: center;
+  margin-top: 33px;
+  margin-bottom: 20px;
+}
+
+.top-buffer {
+  margin-top: 33px;
+}
+
+.resize {
+  width: 500px;
+  height: 450px;
+}
